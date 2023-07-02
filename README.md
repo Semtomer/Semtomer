@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Unity Engine, Unreal Engine, C#, Blueprint**
 
-- 📫 How to reach me **eyisa_51@hotmail.com**
+- 📫 How to reach me **semtomer@hotmail.com**, **tolga.yilmaz6@bahcesehir.edu.tr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
