@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
-<h3 align="center">A passionate Digital Game Developer from Türkiye</h3>
+<h3 align="center">A passionate Game Developer from Türkiye</h3>
 
 - 💬 Ask me about **Game Design, Unity Engine, Unreal Engine, C#, UE Blueprint**
 
